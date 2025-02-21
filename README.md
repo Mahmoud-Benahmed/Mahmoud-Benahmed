@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Mahmoud] | IT Student
+# 👋 Hi, I'm Mahmoud | IT Student
 
-🎓 Studying **Information Technology** at [institut superieur des etudes technologiques Djerba]  
+🎓 Studying **Information Technology** at institut superieur des etudes technologiques Djerba 
 💻 Passionate about coding, web development, Design and open-source projects. 
 🌱 Currently learning: **SpringBoot,angular,**.
 
@@ -18,9 +18,9 @@
 ---
 
 ### 📫 Let's Connect
-- Email: mahmoudabderrahmen55@gmail.com# 👋 Hi, I'm [Mahmoud] | IT Student
+- Email: mahmoudabderrahmen55@gmail.com# 👋 Hi, I'm Mahmoud | IT Student
 
-🎓 Studying **Information Technology** at [institut superieur des etudes technologiques Djerba]  
+🎓 Studying **Information Technology** at institut superieur des etudes technologiques Djerba  
 💻 Passionate about coding, web development, Design and open-source projects. 
 🌱 Currently learning: **SpringBoot,angular,**.
 
