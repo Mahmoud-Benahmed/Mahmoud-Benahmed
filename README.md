@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm [Mahmoud] | IT Student
 
-<!--
-**Mahmoud-Benahmed/Mahmoud-Benahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Studying **Information Technology** at [institut superieur des etudes technologiques Djerba]  
+💻 Passionate about coding, web development, Design and open-source projects. 
+🌱 Currently learning: **SpringBoot,angular,**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+---
+
+### 🔥 Projects
+- [Mobile App](https://github.com/yourusername/project1): Short description.
+- [Site Web Tunisie Telecom](https://github.com/yourusername/project2): Short description.
+
+---
+
+### 📫 Let's Connect
+- Email: mahmoudabderrahmen55@gmail.com# 👋 Hi, I'm [Mahmoud] | IT Student
+
+🎓 Studying **Information Technology** at [institut superieur des etudes technologiques Djerba]  
+💻 Passionate about coding, web development, Design and open-source projects. 
+🌱 Currently learning: **SpringBoot,angular,**.
+
+---
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+---
+
+### 🔥 Projects
+- [Mobile App](https://github.com/yourusername/project1): Short description.
+- [Site Web Tunisie Telecom](https://github.com/yourusername/project2): Short description.
+
+---
+
+### 📫 Let's Connect
+- Email: mahmoudabderrahmen55@gmail.com
