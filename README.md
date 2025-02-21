@@ -32,8 +32,8 @@
 ---
 
 ### 🔥 Projects
-- [Mobile App](https://github.com/yourusername/project1): Short description.
-- [Site Web Tunisie Telecom](https://github.com/yourusername/project2): Short description.
+- [Mobile App](https://github.com/yourusername/project1):
+- [Site Web Tunisie Telecom](https://github.com/yourusername/project2):
 
 ---
 
