@@ -12,8 +12,8 @@
 ---
 
 ### 🔥 Projects
-- [Mobile App]
-- [Site Web Tunisie Telecom]
+- Mobile App
+- Site Web Tunisie Telecom
 
 ---
 
