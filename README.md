@@ -30,7 +30,7 @@
 ---
 
 ### 🔥 Projects
-- [Mobile App](https://github.com/yourusername/project1):
-- [Site Web Tunisie Telecom](https://github.com/yourusername/project2):
+- [Mobile App](https://github.com/Mahmoud-Benahmed/Marealbs):
+- [Site Web Tunisie Telecom](https://github.com/yourusername/project):
 
 ---
