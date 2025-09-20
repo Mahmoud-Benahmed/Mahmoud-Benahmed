@@ -34,6 +34,3 @@
 - [Site Web Tunisie Telecom](https://github.com/yourusername/project2):
 
 ---
-
-### 📫 Let's Connect
-- Email: mahmoudabderrahmen55@gmail.com
