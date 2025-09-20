@@ -2,7 +2,6 @@
 
 🎓 Studying **Information Technology** at institut superieur des etudes technologiques Djerba 
 💻 Passionate about coding, web development, Design and open-source projects. 
-🌱 Currently learning: **SpringBoot,angular,**.
 
 ---
 
@@ -12,7 +11,7 @@
 ---
 
 ### 🔥 Projects
-- Mobile App
+- Mobile App MareAlbs
 - Site Web Tunisie Telecom
 
 ---
@@ -22,7 +21,6 @@
 
 🎓 Studying **Information Technology** at institut superieur des etudes technologiques Djerba  
 💻 Passionate about coding, web development, Design and open-source projects. 
-🌱 Currently learning: **SpringBoot,angular,**.
 
 ---
 
