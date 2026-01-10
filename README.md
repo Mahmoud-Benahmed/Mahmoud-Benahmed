@@ -47,13 +47,11 @@
   🔗 https://github.com/Mahmoud-Benahmed/Marealbs
 
 - **NovaEstate – Real Estate Rental Platform**  
-  Spring Boot · Angular · MySQL
+  Spring Boot · Angular · MySQL  
+  🔗 https://github.com/Mahmoud-Benahmed/real-estate-rental
 
 - **Tunisie Telecom Website**  
   HTML · Tailwind CSS
-
-- **TripLy – Travel Planning Web App** *(In Development)*  
-  .NET · Angular · MongoDB
 
 ---
 
@@ -69,5 +67,7 @@
 
 ## 📫 Let’s Connect
 [![Email](https://img.shields.io/badge/Email-mahmoudabderrahmen55@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahmoudabderrahmen55@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Mahmoud--Benahmed-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mahmoud-Benahmed)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-mbastack.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://mbastack.vercel.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Ben%20Ahmed-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-ben-ahmed-497b072a6/)
