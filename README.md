@@ -12,21 +12,30 @@
 ## 🛠️ Skills & Tools
 
 ### 💻 Web & Mobile Development
-- **React Native**, **Angular**, **Spring Boot**
-- **HTML5**, **Tailwind CSS**
-- **MySQL**, **SQLite**
-- **WordPress**
-- **Android Studio**
-- **Git**
+![React Native](https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
 
 ### 🎨 UX/UI & Design
-- **Figma**
-- **Adobe Illustrator**
-- **Design Systems & User-Centered Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
+
+---
 
 ### 🧊 Multimedia, 3D & AR
-- **Blender** (3D Modeling & Animation)
-- **Unity** (C# – AR Applications)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 ---
 
@@ -34,52 +43,31 @@
 
 ### 🌐 Web & Mobile
 - **MareAlbs – Mobile Control Center App**  
-  Mobile application for real-time monitoring and operational management.  
-  *Tech:* React Native, SQLite  
+  React Native · SQLite  
   🔗 https://github.com/Mahmoud-Benahmed/Marealbs
 
 - **NovaEstate – Real Estate Rental Platform**  
-  Modern web platform with interactive property listings and intuitive navigation.  
-  *Tech:* Spring Boot, Angular, MySQL
+  Spring Boot · Angular · MySQL
 
 - **Tunisie Telecom Website**  
-  Frontend website developed with responsive layout and service integration.  
-  *Tech:* HTML, Tailwind CSS
+  HTML · Tailwind CSS
 
 - **TripLy – Travel Planning Web App** *(In Development)*  
-  Web application for trip organization, itineraries, and real-time updates.  
-  *Tech:* .NET, Angular, MongoDB
+  .NET · Angular · MongoDB
 
 ---
 
 ### 🎨 Multimedia & Interactive Design
-- **AR Product Showcase App**  
-  Augmented reality application allowing users to explore a smartphone in real scale.  
-  *Tech:* Unity, C#
-
-- **3D Exhibition Setup**  
-  Realistic 3D environment showcasing modeling, lighting, and rendering skills.  
-  *Tools:* Blender
-
-- **3D Dancing Scene Animation**  
-  Animated scene focused on motion, timing, and visual storytelling.  
-  *Tools:* Blender
-
-- **Travel Journal & Trip Planning UI**  
-  Mobile UI design focused on usability and clean interaction flow.  
-  *Tools:* Figma
-
-- **User-Centered Travel Booking Experience**  
-  UX design emphasizing clarity, fast date selection, and service discovery.  
-  *Tools:* Figma
-
-- **Luxury Real Estate Property Card UI**  
-  Mobile UI concept focused on hierarchy, readability, and premium visual style.  
-  *Tools:* Figma
+- **AR Product Showcase App** — Unity · C#  
+- **3D Exhibition Setup** — Blender  
+- **3D Dancing Scene Animation** — Blender  
+- **Travel Journal & Trip Planning UI** — Figma  
+- **User-Centered Travel Booking Experience** — Figma  
+- **Luxury Real Estate Property Card UI** — Figma  
 
 ---
 
 ## 📫 Let’s Connect
-- 📧 **Email:** mahmoudabderrahmen55@gmail.com  
-- 🧑‍💻 **GitHub:** https://github.com/Mahmoud-Benahmed  
-- 🌐 **Portfolio:** https://mbastack.vercel.app/
+[![Email](https://img.shields.io/badge/Email-mahmoudabderrahmen55@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahmoudabderrahmen55@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Mahmoud--Benahmed-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mahmoud-Benahmed)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mbastack.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://mbastack.vercel.app/)
