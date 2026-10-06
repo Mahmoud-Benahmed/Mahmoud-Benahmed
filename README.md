@@ -1,11 +1,10 @@
-# 👋 Hi, I’m Mahmoud Ben Ahmed | IT & Multimedia Student
+# 👋 Hi, I’m Mahmoud Ben Ahmed | Full-Stack Developer
 
-🎓 **Information Technology student (Web & Multimedia Development)**  
-🏫 Institut Supérieur des Études Technologiques de Djerba  
-📍 Sousse, Tunisia  
+💻 **Full-Stack Developer | Aspiring Data Analyst**
+🏫 Higher Institute of Technological Studies of Djerba
+📍 Sousse, Tunisia
 
-💡 Passionate about building **human-centered digital products** that combine  
-**web & mobile development, UX/UI design, and interactive multimedia experiences**.
+💡 Passionate about **technology, data, and problem-solving**, with experience in **web & mobile development, software engineering, UX/UI design, and interactive multimedia**.
 
 ---
 
