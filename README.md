@@ -42,7 +42,6 @@
 ## 🔥 Selected Projects
 
 ### 🌐 Web & Mobile
-### 🏢 Enterprise & Distributed Systems
 
 * **ERP Microservices System – Distributed ERP Architecture**
   Final Year Project · .NET 10 · Microservices · Event-Driven Architecture
@@ -56,10 +55,6 @@
 - **NovaEstate – Real Estate Rental Platform**  
   Spring Boot · Angular · MySQL  
   🔗 https://github.com/Mahmoud-Benahmed/real-estate-rental
-
-- **Tunisie Telecom Website**  
-  HTML · Tailwind CSS
-
 ---
 
 ### 🎨 Multimedia & Interactive Design
